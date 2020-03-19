@@ -1,1 +1,0 @@
-{"country": "India", "cases": 170, "todayCases": 1, "deaths": 3, "todayDeaths": 0, "recovered": 15, "active": 152, "critical": 0, "casesPerOneMillion": 0}
