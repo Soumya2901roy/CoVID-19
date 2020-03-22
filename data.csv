@@ -1,0 +1,414 @@
+currentstatus,detectedstate,gender,dateannounced,nationality
+Recovered,Kerala,F,30/01/2020,India
+Recovered,Kerala,,02/02/2020,India
+Recovered,Kerala,,03/02/2020,India
+Recovered,Delhi,M,02/03/2020,India
+Recovered,Telangana,,02/03/2020,India
+Recovered,Rajasthan,M,03/03/2020,Italy
+Hospitalized,Haryana,,04/03/2020,Italy
+Hospitalized,Haryana,,04/03/2020,Italy
+Hospitalized,Haryana,,04/03/2020,Italy
+Hospitalized,Haryana,,04/03/2020,Italy
+Hospitalized,Haryana,,04/03/2020,Italy
+Hospitalized,Haryana,,04/03/2020,Italy
+Hospitalized,Haryana,,04/03/2020,Italy
+Hospitalized,Haryana,,04/03/2020,Italy
+Hospitalized,Haryana,,04/03/2020,Italy
+Hospitalized,Haryana,,04/03/2020,Italy
+Hospitalized,Haryana,,04/03/2020,Italy
+Hospitalized,Haryana,,04/03/2020,Italy
+Hospitalized,Haryana,,04/03/2020,Italy
+Hospitalized,Haryana,,04/03/2020,Italy
+Recovered,Rajasthan,F,04/03/2020,Italy
+Hospitalized,Uttar Pradesh,,04/03/2020,India
+Hospitalized,Uttar Pradesh,,04/03/2020,India
+Hospitalized,Uttar Pradesh,,04/03/2020,India
+Hospitalized,Uttar Pradesh,,04/03/2020,India
+Hospitalized,Uttar Pradesh,,04/03/2020,India
+Hospitalized,Uttar Pradesh,,04/03/2020,India
+Hospitalized,Uttar Pradesh,,04/03/2020,India
+Hospitalized,Delhi,M,05/03/2020,India
+Recovered,Uttar Pradesh,M,05/03/2020,India
+Recovered,Delhi,,06/03/2020,India
+Hospitalized,Ladakh,M,07/03/2020,India
+Hospitalized,Ladakh,M,07/03/2020,India
+Recovered,Tamil Nadu,M,07/03/2020,India
+Hospitalized,Kerala,M,08/03/2020,India
+Hospitalized,Kerala,M,08/03/2020,India
+Hospitalized,Kerala,F,08/03/2020,India
+Hospitalized,Kerala,M,08/03/2020,India
+Hospitalized,Kerala,F,08/03/2020,India
+Hospitalized,Delhi,F,09/03/2020,India
+Hospitalized,Jammu and Kashmir,F,09/03/2020,India
+Hospitalized,Karnataka,M,09/03/2020,India
+Hospitalized,Kerala,M,09/03/2020,India
+Hospitalized,Maharashtra,M,09/03/2020,India
+Hospitalized,Maharashtra,F,09/03/2020,India
+Hospitalized,Punjab,M,09/03/2020,Italy
+Recovered,Uttar Pradesh,M,09/03/2020,India
+Hospitalized,Uttar Pradesh,,09/03/2020,India
+Hospitalized,Kerala,,10/03/2020,India
+Hospitalized,Kerala,,10/03/2020,India
+Hospitalized,Karnataka,M,10/03/2020,India
+Recovered,Karnataka,F,10/03/2020,India
+Hospitalized,Karnataka,F,10/03/2020,India
+Hospitalized,Kerala,M,10/03/2020,India
+Hospitalized,Kerala,F,10/03/2020,India
+Hospitalized,Kerala,M,10/03/2020,India
+Hospitalized,Kerala,F,10/03/2020,India
+Hospitalized,Kerala,M,10/03/2020,India
+Hospitalized,Kerala,F,10/03/2020,India
+Hospitalized,Maharashtra,F,10/03/2020,India
+Hospitalized,Maharashtra,,10/03/2020,India
+Hospitalized,Maharashtra,M,10/03/2020,India
+Recovered,Rajasthan,M,10/03/2020,India
+Hospitalized,Delhi,M,11/03/2020,India
+Hospitalized,Ladakh,M,11/03/2020,India
+Hospitalized,Maharashtra,M,11/03/2020,India
+Hospitalized,Maharashtra,F,11/03/2020,India
+Hospitalized,Maharashtra,,11/03/2020,India
+Hospitalized,Maharashtra,,11/03/2020,India
+Hospitalized,Maharashtra,,11/03/2020,India
+Hospitalized,Andhra Pradesh,M,12/03/2020,India
+Deceased,Delhi,F,12/03/2020,India
+Recovered,Karnataka,M,12/03/2020,India
+Deceased,Karnataka,M,12/03/2020,India
+Hospitalized,Kerala,,12/03/2020,India
+Hospitalized,Kerala,,12/03/2020,India
+Deceased,Maharashtra,M,12/03/2020,India
+Hospitalized,Maharashtra,M,12/03/2020,India
+Hospitalized,Maharashtra,M,12/03/2020,India
+Hospitalized,Maharashtra,M,12/03/2020,India
+Hospitalized,Uttar Pradesh,F,12/03/2020,Canada
+Hospitalized,Uttar Pradesh,M,12/03/2020,India
+Hospitalized,Delhi,M,13/03/2020,India
+Hospitalized,Jammu and Kashmir,,13/03/2020,India
+Hospitalized,Kerala,,13/03/2020,Italy
+Hospitalized,Kerala,,13/03/2020,India
+Hospitalized,Kerala,M,13/03/2020,India
+Hospitalized,Maharashtra,F,13/03/2020,India
+Hospitalized,Maharashtra,M,13/03/2020,India
+Hospitalized,Maharashtra,,13/03/2020,India
+Hospitalized,Uttar Pradesh,F,13/03/2020,India
+Hospitalized,Maharashtra,,14/03/2020,India
+Hospitalized,Maharashtra,F,14/03/2020,India
+Hospitalized,Maharashtra,M,14/03/2020,India
+Hospitalized,Maharashtra,M,14/03/2020,India
+Hospitalized,Maharashtra,,14/03/2020,India
+Hospitalized,Maharashtra,,14/03/2020,India
+Hospitalized,Maharashtra,M,14/03/2020,India
+Hospitalized,Maharashtra,F,14/03/2020,India
+Hospitalized,Maharashtra,F,14/03/2020,India
+Hospitalized,Maharashtra,F,14/03/2020,India
+Hospitalized,Maharashtra,M,14/03/2020,India
+Hospitalized,Maharashtra,M,14/03/2020,India
+Hospitalized,Maharashtra,,14/03/2020,India
+Hospitalized,Maharashtra,,14/03/2020,India
+Hospitalized,Rajasthan,M,14/03/2020,India
+Hospitalized,Telangana,,14/03/2020,India
+Hospitalized,Kerala,M,15/03/2020,United Kingdom
+Hospitalized,Kerala,M,15/03/2020,India
+Hospitalized,Maharashtra,F,15/03/2020,India
+Hospitalized,Maharashtra,M,15/03/2020,India
+Hospitalized,Telangana,,15/03/2020,India
+Hospitalized,Uttarakhand,M,15/03/2020,India
+Hospitalized,Jammu and Kashmir,,16/03/2020,India
+Hospitalized,Karnataka,M,16/03/2020,India
+Hospitalized,Karnataka,F,16/03/2020,India
+Hospitalized,Kerala,,16/03/2020,India
+Hospitalized,Kerala,F,16/03/2020,India
+Hospitalized,Kerala,F,16/03/2020,India
+Hospitalized,Maharashtra,,16/03/2020,Phillipines
+Hospitalized,Maharashtra,,16/03/2020,Phillipines
+Hospitalized,Maharashtra,F,16/03/2020,India
+Hospitalized,Maharashtra,F,16/03/2020,India
+Hospitalized,Maharashtra,F,16/03/2020,India
+Hospitalized,Maharashtra,F,16/03/2020,India
+Hospitalized,Odisha,M,16/03/2020,India
+Hospitalized,Telangana,M,16/03/2020,India
+Hospitalized,Delhi,,17/03/2020,India
+Hospitalized,Delhi,,17/03/2020,India
+Migrated,Delhi,,17/03/2020,India
+Hospitalized,Haryana,F,17/03/2020,India
+Hospitalized,Ladakh,F,17/03/2020,India
+Hospitalized,Ladakh,,17/03/2020,India
+Hospitalized,Ladakh,,17/03/2020,India
+Hospitalized,Karnataka,F,17/03/2020,India
+Hospitalized,Karnataka,F,17/03/2020,India
+Hospitalized,Karnataka,M,17/03/2020,India
+Hospitalized,Maharashtra,M,17/03/2020,India
+Hospitalized,Maharashtra,M,17/03/2020,India
+Hospitalized,Puducherry,F,17/03/2020,India
+Hospitalized,Telangana,M,17/03/2020,Indonesia
+Hospitalized,Uttar Pradesh,M,17/03/2020,India
+Hospitalized,Uttar Pradesh,F,17/03/2020,India
+Hospitalized,West Bengal,M,17/03/2020,India
+Hospitalized,Ladakh,M,17/03/2020,India
+Hospitalized,Ladakh,M,17/03/2020,India
+Hospitalized,Maharashtra,F,18/03/2020,India
+Hospitalized,Uttar Pradesh,M,18/03/2020,India
+Hospitalized,Telangana,M,18/03/2020,India
+Hospitalized,Karnataka,M,18/03/2020,India
+Hospitalized,Karnataka,M,18/03/2020,India
+Hospitalized,Uttar Pradesh,,18/03/2020,India
+Hospitalized,Haryana,M,18/03/2020,India
+Hospitalized,Tamil Nadu,M,18/03/2020,India
+Hospitalized,Maharashtra,F,18/03/2020,India
+Hospitalized,Karnataka,M,18/03/2020,India
+Hospitalized,Maharashtra,M,18/03/2020,India
+Hospitalized,Maharashtra,,18/03/2020,India
+Hospitalized,Jammu and Kashmir,,18/03/2020,India
+Hospitalized,Rajasthan,M,18/03/2020,India
+Hospitalized,Rajasthan,F,18/03/2020,India
+Hospitalized,Rajasthan,F,18/03/2020,India
+Hospitalized,Telangana,,18/03/2020,Indonesia
+Hospitalized,Telangana,,18/03/2020,Indonesia
+Hospitalized,Telangana,,18/03/2020,Indonesia
+Hospitalized,Telangana,,18/03/2020,Indonesia
+Hospitalized,Telangana,,18/03/2020,Indonesia
+Hospitalized,Telangana,,18/03/2020,Indonesia
+Hospitalized,Telangana,,18/03/2020,Indonesia
+Hospitalized,Haryana,F,18/03/2020,India
+Hospitalized,Delhi,F,18/03/2020,India
+Hospitalized,Chandigarh,F,19/03/2020,India
+Hospitalized,Maharashtra,F,19/03/2020,India
+Hospitalized,Maharashtra,F,19/03/2020,India
+Hospitalized,Karnataka,M,19/03/2020,India
+Hospitalized,Andhra Pradesh,M,19/03/2020,India
+Hospitalized,Chhattisgarh,F,19/03/2020,India
+Hospitalized,Uttar Pradesh,M,19/03/2020,India
+Hospitalized,Uttar Pradesh,,19/03/2020,India
+Hospitalized,Uttar Pradesh,,19/03/2020,India
+Hospitalized,Tamil Nadu,M,19/03/2020,India
+Deceased,Punjab,M,19/03/2020,India
+Hospitalized,Kerala,M,19/03/2020,India
+Hospitalized,Gujarat,M,19/03/2020,India
+Hospitalized,Gujarat,F,19/03/2020,India
+Hospitalized,Maharashtra,,19/03/2020,India
+Hospitalized,Maharashtra,M,19/03/2020,India
+Hospitalized,Uttarakhand,,19/03/2020,India
+Hospitalized,Uttarakhand,,19/03/2020,India
+Hospitalized,Telangana,,19/03/2020,India
+Hospitalized,Telangana,,19/03/2020,India
+Hospitalized,Telangana,,19/03/2020,India
+Hospitalized,Odisha,M,19/03/2020,India
+Hospitalized,Rajasthan,M,19/03/2020,India
+Hospitalized,Rajasthan,F,19/03/2020,India
+Hospitalized,Andhra Pradesh,,19/03/2020,India
+Hospitalized,Delhi,F,19/03/2020,India
+Hospitalized,Delhi,M,19/03/2020,India
+Hospitalized,Delhi,M ,19/03/2020,India
+Hospitalized,West Bengal,M,20/03/2020,India
+Hospitalized,Punjab,F,20/03/2020,India
+Hospitalized,Ladakh,,20/03/2020,India
+Hospitalized,Ladakh,,20/03/2020,India
+Hospitalized,Delhi,,20/03/2020,India
+Hospitalized,Delhi,,20/03/2020,India
+Hospitalized,Delhi,M,20/03/2020,India
+Hospitalized,Maharashtra,M,20/03/2020,India
+Hospitalized,Maharashtra,M,20/03/2020,India
+Hospitalized,Maharashtra,M,20/03/2020,India
+Hospitalized,Gujarat,F,20/03/2020,India
+Hospitalized,Gujarat,F,20/03/2020,India
+Hospitalized,Gujarat,M,20/03/2020,India
+Hospitalized,Uttar Pradesh,M,20/03/2020,India
+Hospitalized,Uttar Pradesh,M,20/03/2020,India
+Hospitalized,Uttar Pradesh,F,20/03/2020,India
+Hospitalized,Uttar Pradesh,F,20/03/2020,India
+Hospitalized,Rajasthan,,20/03/2020,India
+Hospitalized,Rajasthan,,20/03/2020,India
+Hospitalized,Rajasthan,,20/03/2020,India
+Hospitalized,Telangana,F,20/03/2020,India
+Hospitalized,Rajasthan,,20/03/2020,
+Hospitalized,Gujarat,F,20/03/2020,India
+Hospitalized,Gujarat,M,20/03/2020,India
+Hospitalized,Chandigarh,F,20/03/2020,India
+Hospitalized,Chandigarh,M,20/03/2020,India
+Hospitalized,Chandigarh,M,20/03/2020,India
+Hospitalized,Chandigarh,F,20/03/2020,India
+Hospitalized,Kerala,F,20/03/2020,United Kingdom
+Hospitalized,Kerala,M,20/03/2020,United Kingdom
+Hospitalized,Kerala,M,20/03/2020,United Kingdom
+Hospitalized,Kerala,M,20/03/2020,United Kingdom
+Hospitalized,Kerala,M,20/03/2020,United Kingdom
+Hospitalized,Rajasthan,,20/03/2020,India
+Hospitalized,Rajasthan,,20/03/2020,India
+Hospitalized,Rajasthan,,20/03/2020,India
+Hospitalized,Rajasthan,,20/03/2020,India
+Hospitalized,Haryana,F,20/03/2020,India
+Hospitalized,Haryana,M,20/03/2020,India
+Hospitalized,Kerala,M,20/03/2020,India
+Hospitalized,Kerala,M,20/03/2020,India
+Hospitalized,Kerala,M,20/03/2020,India
+Hospitalized,Kerala,F,20/03/2020,India
+Hospitalized,Kerala,F,20/03/2020,India
+Hospitalized,Kerala,,20/03/2020,India
+Hospitalized,Kerala,M,20/03/2020,India
+Hospitalized,Himachal Pradesh,F,20/03/2020,India
+Hospitalized,Himachal Pradesh,M,20/03/2020,India
+Hospitalized,Madhya Pradesh,M,20/03/2020,India
+Hospitalized,Madhya Pradesh,F,20/03/2020,India
+Hospitalized,Madhya Pradesh,F,20/03/2020,India
+Hospitalized,Madhya Pradesh,M,20/03/2020,India
+Hospitalized,Telangana,M,20/03/2020,Indonesia
+Hospitalized,Telangana,M,20/03/2020,Indonesia
+Hospitalized,Delhi,M,20/03/2020,India
+Hospitalized,Delhi,,20/03/2020,
+Hospitalized,Delhi,,20/03/2020,
+Hospitalized,Maharashtra,M,20/03/2020,
+Hospitalized,Maharashtra,M,20/03/2020,India
+Hospitalized,West Bengal,F,21/03/2020,India
+Hospitalized,Rajasthan,,21/03/2020,India
+Hospitalized,Rajasthan,,21/03/2020,India
+Hospitalized,Rajasthan,,21/03/2020,India
+Hospitalized,Rajasthan,,21/03/2020,India
+Hospitalized,Rajasthan,,21/03/2020,India
+Hospitalized,Rajasthan,,21/03/2020,
+Hospitalized,Punjab,M,21/03/2020,India
+Hospitalized,Punjab,F,21/03/2020,India
+Hospitalized,Punjab,F,21/03/2020,India
+Hospitalized,Gujarat,M,21/03/2020,India
+Deceased,Maharashtra,M,21/03/2020,India
+Hospitalized,Maharashtra,,21/03/2020,India
+Hospitalized,Maharashtra,F,21/03/2020,India
+Hospitalized,Maharashtra,,21/03/2020,India
+Hospitalized,Maharashtra,,21/03/2020,
+Hospitalized,Maharashtra,,21/03/2020,
+Hospitalized,Maharashtra,,21/03/2020,
+Hospitalized,Maharashtra,,21/03/2020,
+Hospitalized,Maharashtra,,21/03/2020,
+Hospitalized,Delhi,,21/03/2020,
+Hospitalized,Delhi,,21/03/2020,
+Hospitalized,Delhi,,21/03/2020,
+Hospitalized,Delhi,,21/03/2020,
+Hospitalized,Delhi,,21/03/2020,
+Hospitalized,Delhi,,21/03/2020,
+Hospitalized,Karnataka,M,21/03/2020,India
+Hospitalized,Uttar Pradesh,,21/03/2020,India
+Hospitalized,Haryana,F,21/03/2020,India
+Hospitalized,Ladakh,,21/03/2020,India
+Hospitalized,Ladakh,,21/03/2020,India
+Hospitalized,Ladakh,,21/03/2020,India
+Hospitalized,Gujarat,,21/03/2020,India
+Hospitalized,Gujarat,,21/03/2020,India
+Deceased,Gujarat,M,21/03/2020,India
+Hospitalized,Gujarat,,21/03/2020,India
+Hospitalized,Gujarat,,21/03/2020,India
+Hospitalized,Karnataka,F,21/03/2020,India
+Hospitalized,Karnataka,M,21/03/2020,India
+Hospitalized,Uttar Pradesh,F,21/03/2020,India
+Hospitalized,Telangana,M,21/03/2020,India
+Hospitalized,Telangana,M,21/03/2020,India
+Hospitalized,Tamil Nadu,,21/03/2020,Thailand
+Hospitalized,Tamil Nadu,,21/03/2020,Thailand
+Hospitalized,Tamil Nadu,M,21/03/2020,India
+Hospitalized,Punjab,M,21/03/2020,India
+Hospitalized,Punjab,M,21/03/2020,India
+Hospitalized,Punjab,M,21/03/2020,India
+Hospitalized,Punjab,F,21/03/2020,India
+Hospitalized,Punjab,M,21/03/2020,India
+Hospitalized,Punjab,F,21/03/2020,India
+Hospitalized,Maharashtra,,21/03/2020,India
+Hospitalized,Punjab,M,21/03/2020,India
+Hospitalized,Kerala,,21/03/2020,India
+Hospitalized,Kerala,,21/03/2020,India
+Hospitalized,Kerala,,21/03/2020,India
+Hospitalized,Kerala,M,21/03/2020,India
+Hospitalized,Kerala,M,21/03/2020,India
+Hospitalized,Kerala,M,21/03/2020,India
+Hospitalized,Kerala,M,21/03/2020,India
+Hospitalized,Kerala,M,21/03/2020,India
+Hospitalized,Kerala,M,21/03/2020,India
+Hospitalized,Kerala,,21/03/2020,India
+Hospitalized,Kerala,,21/03/2020,India
+Hospitalized,Kerala,,21/03/2020,India
+Hospitalized,Karnataka,M,21/03/2020,India
+Hospitalized,Karnataka,M,21/03/2020,India
+Hospitalized,Haryana,F,21/03/2020,India
+Hospitalized,West Bengal,M,21/03/2020,India
+Hospitalized,Rajasthan,,21/03/2020,India
+Hospitalized,Gujarat,F,21/03/2020,India
+Hospitalized,Andhra Pradesh,M,21/03/2020,India
+Hospitalized,Andhra Pradesh,,21/03/2020,India
+Hospitalized,Delhi,,21/03/2020,India
+Hospitalized,Uttar Pradesh,M,21/03/2020,India
+Hospitalized,Uttar Pradesh,M,21/03/2020,India
+Hospitalized,Chandigarh,M,22/03/2020,India
+Hospitalized,Karnataka,M,22/03/2020,
+Hospitalized,Maharashtra,M,22/03/2020,
+Hospitalized,Maharashtra,F,22/03/2020,
+Hospitalized,Maharashtra,M,22/03/2020,
+Hospitalized,Maharashtra,F,22/03/2020,
+Hospitalized,Maharashtra,F,22/03/2020,India
+Hospitalized,Maharashtra,M,22/03/2020,
+Hospitalized,Maharashtra,,22/03/2020,India
+Hospitalized,Maharashtra,,22/03/2020,India
+Hospitalized,Maharashtra,,22/03/2020,India
+Hospitalized,Maharashtra,,22/03/2020,India
+Hospitalized,Tamil Nadu,F,22/03/2020,
+Deceased,Bihar,M,22/03/2020,India
+Hospitalized,Bihar,F,22/03/2020,
+Hospitalized,Telangana,M,22/03/2020,India
+Hospitalized,Gujarat,,22/03/2020,
+Hospitalized,Gujarat,,22/03/2020,
+Hospitalized,Gujarat,,22/03/2020,
+Hospitalized,Gujarat,,22/03/2020,
+Hospitalized,Punjab,,22/03/2020,
+Hospitalized,Punjab,,22/03/2020,
+Hospitalized,Punjab,,22/03/2020,
+Hospitalized,Punjab,,22/03/2020,
+Hospitalized,Punjab,,22/03/2020,
+Hospitalized,Punjab,,22/03/2020,
+Hospitalized,Punjab,,22/03/2020,
+Hospitalized,Madhya Pradesh,F,22/03/2020,
+Hospitalized,Kerala,M,22/03/2020,
+Hospitalized,Kerala,M,22/03/2020,
+Hospitalized,Kerala,M,22/03/2020,
+Hospitalized,Kerala,M,22/03/2020,
+Hospitalized,Kerala,M,22/03/2020,
+Hospitalized,Telangana,,22/03/2020,
+Hospitalized,Telangana,,22/03/2020,
+Hospitalized,Telangana,,22/03/2020,
+Hospitalized,Telangana,,22/03/2020,
+Hospitalized,Telangana,,22/03/2020,
+Hospitalized,Karnataka,M,22/03/2020,
+Hospitalized,Kerala,,22/03/2020,India
+Hospitalized,Kerala,,22/03/2020,India
+Hospitalized,Kerala,,22/03/2020,India
+Hospitalized,Kerala,,22/03/2020,India
+Hospitalized,Kerala,,22/03/2020,India
+Hospitalized,Kerala,,22/03/2020,India
+Hospitalized,Kerala,M,22/03/2020,India
+Hospitalized,Kerala,F,22/03/2020,India
+Hospitalized,Karnataka,F,22/03/2020,
+Hospitalized,Karnataka,F,22/03/2020,
+Hospitalized,Karnataka,M,22/03/2020,
+Hospitalized,Karnataka,M,22/03/2020,
+Hospitalized,Kerala,,22/03/2020,India
+Hospitalized,Kerala,,22/03/2020,India
+Hospitalized,Punjab,,22/03/2020,India
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
